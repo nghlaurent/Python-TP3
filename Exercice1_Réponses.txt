@@ -1,0 +1,21 @@
+
+1. Qu'est ce qu'un service web ?
+
+Un service web est un programme s'exécutant sur un serveur accessible depuis Internet et fournissant un service.
+
+====================================================================================================
+
+2. Une API REST, qu'est-ce que c'est ?
+
+Une API, ou Application Programming Interface, est une interface de communication.
+Il en existe différents types, mais celle qui nous intéresse est celle qui permet de communiquer avec les services web.
+
+Une API REST est une interface de programmation d'application (API ou API web),
+qui respecte les contraintes du style d'architecture REST (Representational State Transfer)
+et permet d'interagir avec les services web RESTful.
+
+====================================================================================================
+
+3. Qu'est ce qu'une FastAPI ?
+
+FastAPI est un framework moderne qui vous permet de créer des API de manière transparente sans trop d'efforts.
